@@ -1,0 +1,49 @@
+{
+	"Usuario": {
+		"dBOQbvXr6IaJPZnDTjORxXHzWJm1": {
+			"ID de llave": ["OibybBU"],
+			"altura": 1.56,
+			"nombre": "Juventino"
+		},
+		"omPg5okMi8YOghYMyW82mxk03g32": {
+			"nombre": "Said",
+			"apellido": "Martinez",
+			"edad": 18,
+			"casado": true,
+			"altura": 1.69,
+			"ID de llave": ["OibYbBU", "csacscc"]
+		}
+	},
+	"llave": {
+		"OibYbBU": {
+			"Bitacora": {
+				"juayjagda7ajsdu": {
+					"uid": "omPg5okMi8YOghYMyW82mxk03g32",
+					"fecha": "26/03/2019",
+					"hora": "05:00pm",
+					"status": 0
+				},
+				"ouqke": {
+					"uid": "omPg5okMi8YOghYMyW82mxk03g32",
+					"fecha": "26/03/2019",
+					"hora": "06:10pm",
+					"status": 1
+				},
+				"qsjiqwu": {
+					"uid": "dBOQbvXr6IaJPZnDTjORxXHzWJm1",
+					"fecha": "26/03/2019",
+					"hora": "06:12pm",
+					"status": 0
+				}
+			},
+			"nombre": "front door",
+			"status": 0
+		},
+		"csacscc": {
+			"nombre": "front door",
+			"share": false,
+			"hora_abierto": "10:00",
+			"hora_cerrado": "10:30"
+		}
+	}
+}

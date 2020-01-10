@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "layers": {
+    "vectorLayer": {
+      "id": "335",
+      "name": "vector",
+      "type": "vector",
+      "width": 2832,
+      "height": 2809,
+      "children": [
+        {
+          "id": "266",
+          "name": "fondo",
+          "type": "path",
+          "pathData": "M 1416 5 C 1042.188 5 683.304 152.495 418.979 414.758 C 154.655 677.02 6 1033.104 6 1404 C 6 1774.896 154.655 2130.98 418.979 2393.242 C 683.304 2655.505 1042.188 2803 1416 2803 C 1789.812 2803 2148.696 2655.505 2413.021 2393.242 C 2677.345 2130.98 2826 1774.896 2826 1404 C 2826 1033.104 2677.345 677.02 2413.021 414.758 C 2148.696 152.495 1789.812 5 1416 5 Z",
+          "fillColor": "#ed3237",
+          "strokeAlpha": 0
+        },
+        {
+          "id": "333",
+          "name": "group_1",
+          "type": "group",
+          "children": [
+            {
+              "id": "332",
+              "name": "pasador",
+              "type": "path",
+              "pathData": "M 911 1093 L 1057 1091 C 951 392 1886 357 1792 1089 L 1934 1089 C 2040 171 786 205 911 1092 Z",
+              "fillColor": "#fefefe",
+              "strokeColor": "#fefefe",
+              "strokeWidth": 1,
+              "trimPathEnd": 0
+            },
+            {
+              "id": "292",
+              "name": "cuerpo_mamon",
+              "type": "path",
+              "pathData": "M 811 1173 L 2011 1168 C 2030 1172 2042 1180 2045 1194 L 2044 2018 C 1999 2171 1882 2282 1696 2351 C 1522 2400 1354 2414 1163 2359 C 985 2317 830 2168 796 2029 C 780 1923 791 1500 787 1233 C 785 1182 800 1175 811 1173 Z",
+              "fillColor": "#fefefe",
+              "strokeColor": "#fefefe",
+              "strokeWidth": 1
+            },
+            {
+              "id": "314",
+              "name": "cerrojo",
+              "type": "path",
+              "pathData": "M 1488 1751 C 1583 1740 1580 1548 1526 1528 C 1493 1476 1381 1462 1339 1500 C 1229 1545 1238 1735 1353 1760 L 1271 2085 L 1569 2085 L 1487 1751 Z",
+              "fillColor": "#373435",
+              "strokeColor": "#373435",
+              "strokeWidth": 1
+            }
+          ]
+        }
+      ]
+    },
+    "hiddenLayerIds": []
+  },
+  "timeline": {
+    "animation": {
+      "id": "337",
+      "name": "anim",
+      "duration": 1000,
+      "blocks": [
+        {
+          "id": "338",
+          "layerId": "266",
+          "propertyName": "fillColor",
+          "startTime": 0,
+          "endTime": 1000,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "color",
+          "fromValue": "#ed3237",
+          "toValue": "#008000"
+        },
+        {
+          "id": "2260",
+          "layerId": "332",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 1000,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 911 1093 L 1057 1091 C 951 392 1886 357 1792 1089 L 1934 1089 C 2040 171 786 205 911 1092 Z",
+          "toValue": "M 1384 1087 L 1529 1085 C 1424 393 2350 358 2257 1083 L 2397 1083 C 2502 174 1261 208 1384 1086 Z"
+        }
+      ]
+    }
+  }
+}

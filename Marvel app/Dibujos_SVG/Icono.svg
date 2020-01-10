@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21.1191mm" height="25.7869mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 564 689"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:#373435;stroke-width:2.03483}
+    .str0 {stroke:#373435;stroke-width:2.03483;stroke-linejoin:round}
+    .str1 {stroke:#00A859;stroke-width:2.03483;stroke-linejoin:round}
+    .str2 {stroke:#FEFEFE;stroke-width:2.03483;stroke-linejoin:round}
+    .fil1 {fill:#00A859}
+    .fil0 {fill:#373435}
+    .fil3 {fill:#ECB733}
+    .fil2 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="115,341 47,349 283,6 507,263 437,275 296,306 211,323 "/>
+  <polygon class="fil1 str1" points="118,688 437,603 438,276 116,342 "/>
+  <polygon class="fil1 str0" points="1,346 35,347 271,1 242,1 223,30 223,18 172,32 136,22 136,154 "/>
+  <polygon class="fil1 str0" points="142,17 179,6 220,13 171,26 "/>
+  <polygon class="fil0 str0" points="63,672 107,681 107,352 63,357 "/>
+  <path class="fil2 str2" d="M255 417l47 1c-1,-11 -9,-24 -22,-24 -11,0 -24,12 -24,24z"/>
+  <path class="fil2 str2" d="M253 458l43 1c0,3 -4,7 -9,12l11 62 -34 8 7 -63c-9,-5 -16,-12 -19,-20z"/>
+  <polygon class="fil0 str0" points="63,672 107,681 107,352 63,357 "/>
+  <path class="fil0 str0" d="M248 558l65 -15 -12 -65c24,-41 20,-92 -23,-96 -34,-3 -63,76 -20,105l-10 72zm16 -17l33 -8 -11 -60c24,-21 22,-79 -10,-77 -24,3 -41,67 -4,84l-8 62z"/>
+  <path class="fil3 str0" d="M253 458c-8,-15 -6,-28 2,-41l181 8c28,-100 136,-59 127,23 1,81 -104,117 -129,17l-181 -7z"/>
+  <ellipse class="fil2 str3" transform="matrix(0.612214 0.0382678 -0.0319728 0.466873 498.203 445.819)" rx="63" ry="111"/>
+ </g>
+</svg>

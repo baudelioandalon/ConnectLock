@@ -1,0 +1,19 @@
+https://jsonlint.com/
+____________________________________
+{
+	"Usuario": {
+		"id": null,
+		"nombre": "Said",
+		"apellido": "Martinez",
+		"edad": 18,
+		"casado": true,
+		"altura": 1.69
+	},
+	"llave": {
+		"id": null,
+		"nombre": "front door",
+		"share": false,
+		"hora_abierto": "10:00",
+		"hora_cerrado": "10:30"
+	}
+}
